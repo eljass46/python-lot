@@ -1,0 +1,7 @@
+a = int(4)
+s = float(4)
+b = float(4.0)
+c = int(4.0)
+print(a==c)
+print(s==b)
+print(a>b)
